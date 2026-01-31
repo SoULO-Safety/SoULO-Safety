@@ -10,6 +10,7 @@ Hi! I am the founder of **SoULO**, an initiative dedicated to making Artificial 
 ### 📁 Projects & Portfolio
 * [**English Portfolio (Notion)**]( https://dawn-longship-127.notion.site/AI-Trainer-Portfolio-Vladyslav-L-SoULO-2f902e11d49680bcbf75d8e19c652a06?source=copy_link )
 * [**Russian Portfolio (Notion)**]( https://dawn-longship-127.notion.site/AI-Trainer-Portfolio-Vladyslav-L-SoULO-2f702e11d49680ef904aead047dd9a1f?source=copy_link )
+* [Technical Report: Persona-Based Jailbreak Analysis](https://github.com/SoULO-Safety/LLM-Safety-Adversarial-Reports/blob/main/Jailbreak-Report-01.md)
 
 ### 📬 Connect with me
 * **Telegram:** [ @UndSalo ](https://t.me/UndSalo)
