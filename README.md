@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🛡️ SoULO - AI Safety & RLHF Specialist
 
-<!--
-**SoULO-Safety/SoULO-Safety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am the founder of **SoULO**, an initiative dedicated to making Artificial Intelligence safer and more aligned with human values. At 14, I am actively developing my expertise in high-stakes model auditing and adversarial testing.
 
-Here are some ideas to get you started:
+### 🎯 Expertise
+* **Red Teaming:** Identifying vulnerabilities and jailbreaks in LLMs.
+* **RLHF & SFT:** Fine-tuning models for safety and ethical alignment.
+* **AI Data Auditing:** Ensuring high-quality, safe datasets for model training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects & Portfolio
+* [**English Portfolio (Notion)**]( https://dawn-longship-127.notion.site/AI-Trainer-Portfolio-Vladyslav-L-SoULO-2f902e11d49680bcbf75d8e19c652a06?source=copy_link )
+* [**Russian Portfolio (Notion)**]( https://dawn-longship-127.notion.site/AI-Trainer-Portfolio-Vladyslav-L-SoULO-2f702e11d49680ef904aead047dd9a1f?source=copy_link )
+
+### 📬 Connect with me
+* **Telegram:** [ @UndSalo ](https://t.me/UndSalo)
+* **Location:** Ukraine (Remote) 🇺🇦
+
+---
+*"Securing the future of AI, one prompt at a time."*
