@@ -14,7 +14,7 @@ Hi! I am the founder of **SoULO**, an initiative dedicated to making Artificial 
 
 ### 📬 Connect with me
 * **Telegram:** [ @UndSalo ](https://t.me/UndSalo)
-* **Gmail:** { red.bird.odessa@gmail.com }
+* **Gmail:** { [qsoulo@wearehackerone.com](mailto:qsoulo@wearehackerone.com) }
 
 ---
 *"Securing the future of AI, one prompt at a time."*
